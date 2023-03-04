@@ -8,3 +8,6 @@ Used HTML, CSS and JavaScript
 ![guessing](UI/guessing.png)
 ![winning](UI/winning.png)
 ![losing](UI/losing.png)
+
+
+## Just a personal project, not releasing 
