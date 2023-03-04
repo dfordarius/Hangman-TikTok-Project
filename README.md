@@ -1,4 +1,4 @@
-Hangman TikTok Summer Project
+# Hangman TikTok Summer Project
 
 Did this hangman project during Summer break 2022
 
