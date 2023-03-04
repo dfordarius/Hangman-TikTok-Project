@@ -10,4 +10,10 @@ Used HTML, CSS and JavaScript
 ![losing](UI/losing.png)
 
 
+## Built With 
+![vercel](logos/vercel-icon.svg)
+![html](logos/html-5.svg)
+![css](logos/css-3.svg)
+![javascript](logos/javascript.svg)
+
 ## Just a personal project, not releasing 
