@@ -9,11 +9,12 @@ Used HTML, CSS and JavaScript
 ![winning](UI/winning.png)
 ![losing](UI/losing.png)
 
-
 ## Built With 
-![vercel](logos/vercel-icon.svg)
-![html](logos/html-5.svg)
-![css](logos/css-3.svg)
-![javascript](logos/javascript.svg)
+<div style="display: flex; flex-direction: row; gap: 10px">
+  <img src="logos/vercel-icon.svg" width="50px" />
+  <img src="logos/javascript.svg" width="50px" />
+  <img src="logos/html-5.svg" width="40px" />
+  <img src="logos/css-3.svg" width="40px" />
+</div>
 
 ## Just a personal project, not releasing 
